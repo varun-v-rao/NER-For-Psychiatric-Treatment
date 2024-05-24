@@ -59,17 +59,6 @@ For the Bi-LSTM model:
 - Additional LSTM layers
 - Dropout regularization
 
-## Results
-
-The performance of the models was evaluated using precision, recall, and F1-score metrics.
-
-### CRF Model
-- **F1-Score**: 0.80 (improved from baseline 0.72)
-
-### Bi-LSTM Model
-- **Accuracy**: 88%
-- **F1-Score**: 0.85 (improved from baseline 0.78)
-
 
 ## Contributing
 
